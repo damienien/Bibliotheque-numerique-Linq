@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "swYO0rKWMN0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kévin.000\\Desktop\\Cours MIL - Damien\\LinQ\\TP\\TP-bibliothèque-numérique\\TP-bibliothèque-numérique.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kévin.000\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Kévin.000\\.nuget\\packages\\system.xml.linq\\3.5.21022.801\\system.xml.linq.3.5.21022.801.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'System.Xml.Linq 3.5.21022.801' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' au lieu du framework cible du projet 'net8.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "System.Xml.Linq",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
